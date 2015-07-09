@@ -6,7 +6,7 @@ A simple demo for indroducing the message forward mechanism of IOS. If no implem
 2. call forwardingTargetForSelector 
 3. call forwardInvocation
 
-http://localhost:4000/blog/2015/07/09/at-iosxiao-xi-zhuan-fa-ji-zhi/
+http://www.xulongwu.com/blog/2015/07/09/at-iosxiao-xi-zhuan-fa-ji-zhi/
 
     //=============================================Step 0=========================================================
 
